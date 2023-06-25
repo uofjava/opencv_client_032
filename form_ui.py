@@ -243,9 +243,9 @@ class Ui_main(object):
         self.save = QPushButton(self.centralwidget)
         self.save.setObjectName(u"save")
         self.save.setGeometry(QRect(1500, 930, 75, 23))
-        self.save_params = QPushButton(self.centralwidget)
-        self.save_params.setObjectName(u"save_params")
-        self.save_params.setGeometry(QRect(1804, 930, 91, 21))
+        self.save_2 = QPushButton(self.centralwidget)
+        self.save_2.setObjectName(u"save_2")
+        self.save_2.setGeometry(QRect(1820, 930, 75, 23))
         main.setCentralWidget(self.centralwidget)
         self.menubar = QMenuBar(main)
         self.menubar.setObjectName(u"menubar")
@@ -292,7 +292,7 @@ class Ui_main(object):
         self.label_23.setText(QCoreApplication.translate("main", u"\u7ebf\u70b9\u6570", None))
         self.open_coutour.setText(QCoreApplication.translate("main", u"\u6253\u5f00\u8f6e\u5ed3\u68c0\u6d4b", None))
         self.save.setText(QCoreApplication.translate("main", u"\u5199\u5165\u6587\u4ef6", None))
-        self.save_params.setText(QCoreApplication.translate("main", u"\u4fdd\u5b58\u5f53\u524d\u914d\u7f6e", None))
+        self.save_2.setText(QCoreApplication.translate("main", u"\u5199\u5165\u6587\u4ef6", None))
         self.menu032.setTitle(QCoreApplication.translate("main", u"032\u89c6\u89c9", None))
     # retranslateUi
 

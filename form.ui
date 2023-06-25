@@ -415,17 +415,17 @@
      <string>写入文件</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="save_params">
+   <widget class="QPushButton" name="save_2">
     <property name="geometry">
      <rect>
-      <x>1804</x>
+      <x>1820</x>
       <y>930</y>
-      <width>91</width>
-      <height>21</height>
+      <width>75</width>
+      <height>23</height>
      </rect>
     </property>
     <property name="text">
-     <string>保存当前配置</string>
+     <string>写入文件</string>
     </property>
    </widget>
   </widget>
